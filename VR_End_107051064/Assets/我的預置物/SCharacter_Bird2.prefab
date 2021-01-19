@@ -73,7 +73,7 @@ GameObject:
   - component: {fileID: 2666152587861457332}
   m_Layer: 0
   m_Name: SCharacter_Bird2
-  m_TagString: Untagged
+  m_TagString: animal
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
